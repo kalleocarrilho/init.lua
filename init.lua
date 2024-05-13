@@ -1,0 +1,3 @@
+require("sherlockin")
+
+print("hello")
